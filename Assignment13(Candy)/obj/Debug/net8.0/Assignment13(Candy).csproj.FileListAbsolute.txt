@@ -1,0 +1,14 @@
+D:\My_Dotnet\Assignment13(Candy)\bin\Debug\net8.0\Assignment13(Candy).exe
+D:\My_Dotnet\Assignment13(Candy)\bin\Debug\net8.0\Assignment13(Candy).deps.json
+D:\My_Dotnet\Assignment13(Candy)\bin\Debug\net8.0\Assignment13(Candy).runtimeconfig.json
+D:\My_Dotnet\Assignment13(Candy)\bin\Debug\net8.0\Assignment13(Candy).dll
+D:\My_Dotnet\Assignment13(Candy)\bin\Debug\net8.0\Assignment13(Candy).pdb
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\Assignment13(Candy).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\Assignment13(Candy).AssemblyInfoInputs.cache
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\Assignment13(Candy).AssemblyInfo.cs
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\Assignment13(Candy).csproj.CoreCompileInputs.cache
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\Assignment13(Candy).dll
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\refint\Assignment13(Candy).dll
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\Assignment13(Candy).pdb
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\Assignment13(Candy).genruntimeconfig.cache
+D:\My_Dotnet\Assignment13(Candy)\obj\Debug\net8.0\ref\Assignment13(Candy).dll

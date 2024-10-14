@@ -1,0 +1,14 @@
+D:\My_Dotnet\Assginment4(AlternateCaps)\bin\Debug\net8.0\Assginment4(AlternateCaps).exe
+D:\My_Dotnet\Assginment4(AlternateCaps)\bin\Debug\net8.0\Assginment4(AlternateCaps).deps.json
+D:\My_Dotnet\Assginment4(AlternateCaps)\bin\Debug\net8.0\Assginment4(AlternateCaps).runtimeconfig.json
+D:\My_Dotnet\Assginment4(AlternateCaps)\bin\Debug\net8.0\Assginment4(AlternateCaps).dll
+D:\My_Dotnet\Assginment4(AlternateCaps)\bin\Debug\net8.0\Assginment4(AlternateCaps).pdb
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\Assginment4(AlternateCaps).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\Assginment4(AlternateCaps).AssemblyInfoInputs.cache
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\Assginment4(AlternateCaps).AssemblyInfo.cs
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\Assginment4(AlternateCaps).csproj.CoreCompileInputs.cache
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\Assginment4(AlternateCaps).dll
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\refint\Assginment4(AlternateCaps).dll
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\Assginment4(AlternateCaps).pdb
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\Assginment4(AlternateCaps).genruntimeconfig.cache
+D:\My_Dotnet\Assginment4(AlternateCaps)\obj\Debug\net8.0\ref\Assginment4(AlternateCaps).dll

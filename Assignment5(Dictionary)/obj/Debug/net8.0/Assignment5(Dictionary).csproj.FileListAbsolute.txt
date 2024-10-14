@@ -1,0 +1,14 @@
+D:\My_Dotnet\Assignment5(Dictionary)\bin\Debug\net8.0\Assignment5(Dictionary).exe
+D:\My_Dotnet\Assignment5(Dictionary)\bin\Debug\net8.0\Assignment5(Dictionary).deps.json
+D:\My_Dotnet\Assignment5(Dictionary)\bin\Debug\net8.0\Assignment5(Dictionary).runtimeconfig.json
+D:\My_Dotnet\Assignment5(Dictionary)\bin\Debug\net8.0\Assignment5(Dictionary).dll
+D:\My_Dotnet\Assignment5(Dictionary)\bin\Debug\net8.0\Assignment5(Dictionary).pdb
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\Assignment5(Dictionary).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\Assignment5(Dictionary).AssemblyInfoInputs.cache
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\Assignment5(Dictionary).AssemblyInfo.cs
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\Assignment5(Dictionary).csproj.CoreCompileInputs.cache
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\Assignment5(Dictionary).dll
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\refint\Assignment5(Dictionary).dll
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\Assignment5(Dictionary).pdb
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\Assignment5(Dictionary).genruntimeconfig.cache
+D:\My_Dotnet\Assignment5(Dictionary)\obj\Debug\net8.0\ref\Assignment5(Dictionary).dll

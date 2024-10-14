@@ -1,0 +1,14 @@
+D:\My_Dotnet\Assignment9(2D-Array)\bin\Debug\net8.0\Assignment9(2D-Array).exe
+D:\My_Dotnet\Assignment9(2D-Array)\bin\Debug\net8.0\Assignment9(2D-Array).deps.json
+D:\My_Dotnet\Assignment9(2D-Array)\bin\Debug\net8.0\Assignment9(2D-Array).runtimeconfig.json
+D:\My_Dotnet\Assignment9(2D-Array)\bin\Debug\net8.0\Assignment9(2D-Array).dll
+D:\My_Dotnet\Assignment9(2D-Array)\bin\Debug\net8.0\Assignment9(2D-Array).pdb
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\Assignment9(2D-Array).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\Assignment9(2D-Array).AssemblyInfoInputs.cache
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\Assignment9(2D-Array).AssemblyInfo.cs
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\Assignment9(2D-Array).csproj.CoreCompileInputs.cache
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\Assignment9(2D-Array).dll
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\refint\Assignment9(2D-Array).dll
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\Assignment9(2D-Array).pdb
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\Assignment9(2D-Array).genruntimeconfig.cache
+D:\My_Dotnet\Assignment9(2D-Array)\obj\Debug\net8.0\ref\Assignment9(2D-Array).dll

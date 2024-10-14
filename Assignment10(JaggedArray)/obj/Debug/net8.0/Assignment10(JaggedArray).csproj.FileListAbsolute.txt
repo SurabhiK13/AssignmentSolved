@@ -1,0 +1,14 @@
+D:\My_Dotnet\Assignment10(JaggedArray)\bin\Debug\net8.0\Assignment10(JaggedArray).exe
+D:\My_Dotnet\Assignment10(JaggedArray)\bin\Debug\net8.0\Assignment10(JaggedArray).deps.json
+D:\My_Dotnet\Assignment10(JaggedArray)\bin\Debug\net8.0\Assignment10(JaggedArray).runtimeconfig.json
+D:\My_Dotnet\Assignment10(JaggedArray)\bin\Debug\net8.0\Assignment10(JaggedArray).dll
+D:\My_Dotnet\Assignment10(JaggedArray)\bin\Debug\net8.0\Assignment10(JaggedArray).pdb
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\Assignment10(JaggedArray).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\Assignment10(JaggedArray).AssemblyInfoInputs.cache
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\Assignment10(JaggedArray).AssemblyInfo.cs
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\Assignment10(JaggedArray).csproj.CoreCompileInputs.cache
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\Assignment10(JaggedArray).dll
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\refint\Assignment10(JaggedArray).dll
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\Assignment10(JaggedArray).pdb
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\Assignment10(JaggedArray).genruntimeconfig.cache
+D:\My_Dotnet\Assignment10(JaggedArray)\obj\Debug\net8.0\ref\Assignment10(JaggedArray).dll

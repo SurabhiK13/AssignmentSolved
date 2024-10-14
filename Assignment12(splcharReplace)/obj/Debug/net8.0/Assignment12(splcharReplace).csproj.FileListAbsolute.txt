@@ -1,0 +1,14 @@
+D:\My_Dotnet\Assignment12(splcharReplace)\bin\Debug\net8.0\Assignment12(splcharReplace).exe
+D:\My_Dotnet\Assignment12(splcharReplace)\bin\Debug\net8.0\Assignment12(splcharReplace).deps.json
+D:\My_Dotnet\Assignment12(splcharReplace)\bin\Debug\net8.0\Assignment12(splcharReplace).runtimeconfig.json
+D:\My_Dotnet\Assignment12(splcharReplace)\bin\Debug\net8.0\Assignment12(splcharReplace).dll
+D:\My_Dotnet\Assignment12(splcharReplace)\bin\Debug\net8.0\Assignment12(splcharReplace).pdb
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\Assignment12(splcharReplace).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\Assignment12(splcharReplace).AssemblyInfoInputs.cache
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\Assignment12(splcharReplace).AssemblyInfo.cs
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\Assignment12(splcharReplace).csproj.CoreCompileInputs.cache
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\Assignment12(splcharReplace).dll
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\refint\Assignment12(splcharReplace).dll
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\Assignment12(splcharReplace).pdb
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\Assignment12(splcharReplace).genruntimeconfig.cache
+D:\My_Dotnet\Assignment12(splcharReplace)\obj\Debug\net8.0\ref\Assignment12(splcharReplace).dll

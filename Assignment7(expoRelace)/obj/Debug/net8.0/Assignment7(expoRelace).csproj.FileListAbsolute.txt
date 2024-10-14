@@ -1,0 +1,14 @@
+D:\My_Dotnet\Assignment7(expoRelace)\bin\Debug\net8.0\Assignment7(expoRelace).exe
+D:\My_Dotnet\Assignment7(expoRelace)\bin\Debug\net8.0\Assignment7(expoRelace).deps.json
+D:\My_Dotnet\Assignment7(expoRelace)\bin\Debug\net8.0\Assignment7(expoRelace).runtimeconfig.json
+D:\My_Dotnet\Assignment7(expoRelace)\bin\Debug\net8.0\Assignment7(expoRelace).dll
+D:\My_Dotnet\Assignment7(expoRelace)\bin\Debug\net8.0\Assignment7(expoRelace).pdb
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\Assignment7(expoRelace).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\Assignment7(expoRelace).AssemblyInfoInputs.cache
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\Assignment7(expoRelace).AssemblyInfo.cs
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\Assignment7(expoRelace).csproj.CoreCompileInputs.cache
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\Assignment7(expoRelace).dll
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\refint\Assignment7(expoRelace).dll
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\Assignment7(expoRelace).pdb
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\Assignment7(expoRelace).genruntimeconfig.cache
+D:\My_Dotnet\Assignment7(expoRelace)\obj\Debug\net8.0\ref\Assignment7(expoRelace).dll

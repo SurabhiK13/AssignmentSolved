@@ -1,0 +1,14 @@
+D:\My_Dotnet\Assignment11\bin\Debug\net8.0\Assignment11(boxUnbox).exe
+D:\My_Dotnet\Assignment11\bin\Debug\net8.0\Assignment11(boxUnbox).deps.json
+D:\My_Dotnet\Assignment11\bin\Debug\net8.0\Assignment11(boxUnbox).runtimeconfig.json
+D:\My_Dotnet\Assignment11\bin\Debug\net8.0\Assignment11(boxUnbox).dll
+D:\My_Dotnet\Assignment11\bin\Debug\net8.0\Assignment11(boxUnbox).pdb
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\Assignment11(boxUnbox).GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\Assignment11(boxUnbox).AssemblyInfoInputs.cache
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\Assignment11(boxUnbox).AssemblyInfo.cs
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\Assignment11(boxUnbox).csproj.CoreCompileInputs.cache
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\Assignment11(boxUnbox).dll
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\refint\Assignment11(boxUnbox).dll
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\Assignment11(boxUnbox).pdb
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\Assignment11(boxUnbox).genruntimeconfig.cache
+D:\My_Dotnet\Assignment11\obj\Debug\net8.0\ref\Assignment11(boxUnbox).dll
